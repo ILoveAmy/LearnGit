@@ -1,0 +1,1 @@
+print("this is learn2.py")
